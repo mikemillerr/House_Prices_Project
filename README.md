@@ -48,4 +48,4 @@ There are three different ipython notebooks which contain all code and visualiza
     - Visualization to make the case
     
 ### The Presentation:
-In directory presentation a pdf of a given business presentation can be found it . The transcript of the presentation can be found in the notes. The time box of the business presentation was 5 minutes.
+In directory presentation a pdf of a given business presentation can be found it. There is a transcript of the presentation can in the notes. The time box of the business presentation was 5 minutes.
