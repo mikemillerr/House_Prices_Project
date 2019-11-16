@@ -1,12 +1,12 @@
 # House_Prices_Project
 
 This project is centered around exploratory data analysis (EDA) techniques and statistical analysis, as well as modeling data using linear regression. Goal of this project is to run through the entire Data Science Life Cycle and become familiar with all steps:
-    - Data Mining
-    - Data Cleaning
-    - Data Exploration
-    - Data Visualization
-    - Data Modeling
-    - Model Evaluation
+- Data Mining
+- Data Cleaning
+- Data Exploration
+- Data Visualization
+- Data Modeling
+- Model Evaluation
 
 ## The Dataset
 The project uses the King County House Sales dataset. King County is situated around Seatle in the North West of the United States in the state of Washington. It contains about 21500 entries of houses sold in the years 2014-2015. Further description of the dataset can be found in "column_names.md" or in notebook part_1.
